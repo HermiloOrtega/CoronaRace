@@ -1,4 +1,3 @@
-
 # 🕹️ CoronaRace
 
 ## 🧭 Overview
@@ -22,10 +21,12 @@ CoronaRace was inspired by the global COVID-19 pandemic and gamifies the challen
 - 🔊 Custom sound effects and animated sprites
 
 ## ⚙️ Tech Stack
-- **Language:** Java
-- **Framework:** JavaFX SDK 18
-- **IDE:** IntelliJ IDEA
-- **Version Control:** Git & GitHub
+| Category             | Tools & Frameworks |
+|----------------------|--------------------|
+| **Language**         | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white) |
+| **Framework**        | ![JavaFX](https://img.shields.io/badge/JavaFX%20SDK-18-007396?style=for-the-badge&logo=java&logoColor=white) |
+| **IDE**              | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) |
+| **Version Control**  | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ## 🏗 Architecture & Design
 - Game loop using JavaFX animation
