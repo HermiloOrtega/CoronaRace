@@ -5,6 +5,17 @@
 
 The objective is to avoid virus obstacles and collect face masks to maintain your health bar and reach the finish line.
 
+### Enemies and health items
+![Screenshot](./assets/1.png)
+
+### Final line
+![Screenshot](./assets/2.png)
+
+### Finish
+![Screenshot](./assets/3.png)
+
+![Watch Video](./assets/demo.mp4)
+
 ## 💡 Idea & Concept
 CoronaRace was inspired by the global COVID-19 pandemic and gamifies the challenge of surviving during a viral outbreak. The concept evolved into a fun and educational game with:
 - Health management and strategy
