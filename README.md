@@ -14,6 +14,7 @@ The objective is to avoid virus obstacles and collect face masks to maintain you
 ### Finish
 ![Screenshot](./assets/3.png)
 
+### Watch Video
 ![Watch Video](./assets/demo.mp4)
 
 ## 💡 Idea & Concept
